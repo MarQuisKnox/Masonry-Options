@@ -5,6 +5,7 @@ A list of resources for Masonry layouts
 Public Domain
 
 # Resources
+* https://css-tricks.com/seamless-responsive-photo-grid
 * https://github.com/absentik/jMosaic
 * https://github.com/kombai/freewall
 * https://github.com/mayankcpdixit/grid-no-white
