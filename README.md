@@ -18,5 +18,13 @@ Public Domain
 * https://github.com/pinterest/cloudgrid
 * https://github.com/GBKS/Wookmark-jQuery
 * https://github.com/jasonenglish/jquery-flex
+* https://github.com/evenwu/pinterest-clone-layout
+* https://github.com/hongkhanh/gridify
+* https://github.com/yconst/Freetile
+* https://github.com/xlune/jQuery-vGrid-Plugin
+* https://github.com/sarasoueidan/s-gallery
+* https://github.com/suprb/Grid-A-Licious
+* https://github.com/DrewDahlman/Mason
+* https://github.com/suprb/nested
 * http://tympanus.net/codrops/2011/08/30/automatic-image-montage
 * http://tympanus.net/codrops/2014/03/21/google-grid-gallery
