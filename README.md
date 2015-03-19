@@ -31,5 +31,12 @@ Public Domain
 * https://github.com/ducksboard/gridster.js
 * https://github.com/DevGrow/Griddy
 * http://tympanus.net/codrops/2011/08/30/automatic-image-montage
+* https://github.com/jboesch/jSquares
+* https://github.com/yksht/jquery.responsivegrid
+* https://github.com/mconventi/integrating-bootstrap-and-masonry
+* https://github.com/iqbalhasnan/Bootstrap-3---Salvattore-Example
+* https://gist.github.com/iqbalhasnan/9597562
+* http://www.bootply.com/118335
+* http://osvaldas.info/responsive-jquery-masonry-or-pinterest-style-layout
 * http://tympanus.net/codrops/2014/03/21/google-grid-gallery
 * http://www.newmediacampaigns.com/blog/jphotogrid
