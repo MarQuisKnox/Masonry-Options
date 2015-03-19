@@ -17,5 +17,6 @@ Public Domain
 * https://github.com/sapegin/jquery.mosaicflow
 * https://github.com/pinterest/cloudgrid
 * https://github.com/GBKS/Wookmark-jQuery
+* https://github.com/jasonenglish/jquery-flex
 * http://tympanus.net/codrops/2011/08/30/automatic-image-montage
 * http://tympanus.net/codrops/2014/03/21/google-grid-gallery
