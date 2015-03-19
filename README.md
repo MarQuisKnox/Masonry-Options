@@ -26,5 +26,6 @@ Public Domain
 * https://github.com/suprb/Grid-A-Licious
 * https://github.com/DrewDahlman/Mason
 * https://github.com/suprb/nested
+* https://github.com/mcpants/jquery.shapeshift
 * http://tympanus.net/codrops/2011/08/30/automatic-image-montage
 * http://tympanus.net/codrops/2014/03/21/google-grid-gallery
