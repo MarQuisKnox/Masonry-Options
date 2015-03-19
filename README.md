@@ -29,6 +29,7 @@ Public Domain
 * https://github.com/mcpants/jquery.shapeshift
 * https://github.com/jimoong/mosaigrid
 * https://github.com/ducksboard/gridster.js
+* https://github.com/DevGrow/Griddy
 * http://tympanus.net/codrops/2011/08/30/automatic-image-montage
 * http://tympanus.net/codrops/2014/03/21/google-grid-gallery
 * http://www.newmediacampaigns.com/blog/jphotogrid
