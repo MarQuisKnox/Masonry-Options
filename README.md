@@ -7,6 +7,7 @@ Public Domain
 # Resources
 * https://css-tricks.com/seamless-responsive-photo-grid
 * https://github.com/absentik/jMosaic
+* https://github.com/kennyooi/blocksit
 * https://github.com/kombai/freewall
 * https://github.com/mayankcpdixit/grid-no-white
 * https://github.com/metafizzy/isotope
@@ -17,3 +18,4 @@ Public Domain
 * https://github.com/pinterest/cloudgrid
 * https://github.com/GBKS/Wookmark-jQuery
 * http://tympanus.net/codrops/2011/08/30/automatic-image-montage
+* http://tympanus.net/codrops/2014/03/21/google-grid-gallery
